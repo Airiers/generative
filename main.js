@@ -195,7 +195,7 @@ const events = [
       "https://upload.wikimedia.org/wikipedia/commons/f/f9/Marantz_CD-52-130314-0001EC.jpg",
   },
   {
-    name: "la première cassete VHS",
+    name: "la cassette VHS",
     date: new Date(1976, 0, 1),
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_cCFrx21EXlNiGegDHtOatvVQd4hpfVfun3MTk5fDQ&s=10",
@@ -455,6 +455,95 @@ const events = [
     image:
       "https://upload.wikimedia.org/wikipedia/commons/5/51/IPod_classic.png",
   },
+  {
+    name: "l'Ipod",
+    date: new Date(2001, 9, 23),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/5/51/IPod_classic.png",
+  },
+  {
+    name: "le téléphone portable",
+    date: new Date(1973, 3, 3),
+    image:
+      "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fphonecharacteristics.com%2Flink_img%2F57161445fc1c9e917512.jpg&sp=1784991113T84e417c5c22db0389a4856fe457723ccf3023b0f5ef2a8aec93b8b6a3e788bd4",
+  },
+  {
+    name: "la 2G (GSM)",
+    date: new Date(1991, 0, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/GSMLogo.svg/1920px-GSMLogo.svg.png",
+  },
+  {
+    name: "la 4G",
+    date: new Date(2008, 0, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Samsung_4G_LTE_modem-2.jpg/500px-Samsung_4G_LTE_modem-2.jpg",
+  },
+  {
+    name: "la 5G",
+    date: new Date(2020, 0, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Antennes_5G_o2_Munich.jpg/1920px-Antennes_5G_o2_Munich.jpg",
+  },
+  {
+    name: "le Blackberry Curve",
+    date: new Date(2007, 4, 3),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/8/83/Bb-curve-8520%281%29.jpg",
+  },
+  {
+    name: "le passage à l'Euro",
+    date: new Date(2002, 0, 1),
+    image:
+      "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.britannica.com%2F77%2F237877-138-64FBA19C%2Fhistory-of-the-Euro-currency.jpg&sp=1784992467T5f41d5630f59b6851698d55ea10ee36bd57e4d29e931fd5316daea0e2b87973b",
+  },
+  {
+    name: "le Metaverse",
+    date: new Date(2021, 9, 28),
+    image:
+      "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D10AQGZx37_6rujOQ%2Fimage-shrink_1280%2Fimage-shrink_1280%2F0%2F1734274818820%3Fe%3D2147483647%26v%3Dbeta%26t%3DMwMXc-Dg1aPTBrivoyOuiav0fRdJKER_sSX_dt9ODPM&sp=1784992639Ta70cb18b26f93952aded7e27a3bf229b33b443dd3d12ee37140d4b5cac91f4e7",
+  },
+  {
+    name: "le casque VR",
+    date: new Date(2016, 2, 28),
+    image:
+      "https://images.openai.com/static-rsc-4/pnbHKkLs013BJSD67H26f3pcdBP5LZMl-7B5nko85ads2vjqWJsc7aekKFjBpbXG6OnJ2wA16l3Ldi7UR5C0gKlZgnXfLOa0PVi7af-YU85gJvXV-pmMbKoyniLmT0BDZWkbeUqC7jOEbPbNbYUVf-MgbGSPfGAfDnqfBb07-3jWq91L8U6BRUpb5lRzwNSO?purpose=fullsize",
+  },
+  {
+    name: "le bipeur",
+    date: new Date(1994, 8, 1),
+    image:
+      "https://www.annuaire-inverse-france.com/s/i/actu/tamtam-taatoo-kobby-big.jpg",
+  },
+  {
+    name: "le Kodak jetable",
+    date: new Date(1987, 0, 1),
+    image: "https://lasonotheque.org/museumofsounds/webp/40_1.webp?v=293",
+  },
+  {
+    name: "les Pogs",
+    date: new Date(1995, 0, 1),
+    image:
+      "https://offloadmedia.feverup.com/bordeauxsecret.com/wp-content/uploads/2021/10/07055438/shutterstock_1685140069-768x512.png",
+  },
+  {
+    name: "la Télévision Numérique Terrestre",
+    date: new Date(2005, 2, 31),
+    image:
+      "https://www.startpage.com/av/proxy-image?piurl=http%3A%2F%2Fnews.aniamey.com%2Fimg_photos%2FL%2Ftnt-television-numerique-terrestre-700x352.png&sp=1784994296Tb7ca7f4633604af1575708ae90db19f3fae4eba7a47be972961e8c534e7a1e83",
+  },
+  {
+    name: "Métropole télévision 6 (M6)",
+    date: new Date(1987, 2, 1),
+    image:
+      "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogos%2Fimages%2Fd%2Fdd%2FM6_1987_logo.jpg%2Frevision%2Flatest%3Fcb%3D20160624155944%26path-prefix%3Dfr&sp=1784994359T320ee445736005fbfaf21bbf7fcf599720c8617de18713f7118c54a9bd3acf08",
+  },
+  {
+    name: "la télé HD",
+    date: new Date(1998, 0, 1),
+    image:
+      "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1331151042%2Fphoto%2Fan-old-black-tv-is-on-the-bedside-table-in-the-apartment-vintage-tvs-1980s-1990s-2000s.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DDXssKwxXm9l_bycrsrofPyVVInX8f4lkC-5YiSt5khE%3D&sp=1784994540T0cd2a74f7f7b9614871fc45752f8c7c3233aa18e76c849856a19076f5e187d9f",
+  },
 ];
 
 function getDiff(eventDate, birthDate) {
@@ -487,6 +576,55 @@ function createCard(event, birthDate) {
   const img = document.createElement("img");
   img.src = event.image;
   img.alt = event.name;
+
+  if (event.name === "le modem 56K") {
+    img.style.cursor = "pointer";
+
+    img.addEventListener("click", () => {
+      const audio = new Audio("modem.mp3");
+      audio.play();
+    });
+  }
+  if (event.name === "le lecteur CD") {
+    img.style.cursor = "pointer";
+
+    img.addEventListener("click", () => {
+      const audio = new Audio("cd.mp3");
+      audio.play();
+    });
+  }
+  if (event.name === "la disquette Sony") {
+    img.style.cursor = "pointer";
+
+    img.addEventListener("click", () => {
+      const audio = new Audio("disquette.mp3");
+      audio.play();
+    });
+  }
+  if (event.name === "le bipeur") {
+    img.style.cursor = "pointer";
+
+    img.addEventListener("click", () => {
+      const audio = new Audio("bipeur.mp3");
+      audio.play();
+    });
+  }
+  if (event.name === "le Kodak jetable") {
+    img.style.cursor = "pointer";
+
+    img.addEventListener("click", () => {
+      const audio = new Audio("kodak.mp3");
+      audio.play();
+    });
+  }
+  if (event.name === "la cassette VHS") {
+    img.style.cursor = "pointer";
+
+    img.addEventListener("click", () => {
+      const audio = new Audio("vhs.mp3");
+      audio.play();
+    });
+  }
 
   const p = document.createElement("p");
   const span = document.createElement("span");
