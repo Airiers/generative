@@ -495,7 +495,7 @@ const events = [
     name: "le Metaverse",
     date: new Date(2021, 9, 28),
     image:
-      "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D10AQGZx37_6rujOQ%2Fimage-shrink_1280%2Fimage-shrink_1280%2F0%2F1734274818820%3Fe%3D2147483647%26v%3Dbeta%26t%3DMwMXc-Dg1aPTBrivoyOuiav0fRdJKER_sSX_dt9ODPM&sp=1784992639Ta70cb18b26f93952aded7e27a3bf229b33b443dd3d12ee37140d4b5cac91f4e7",
+      "https://media.licdn.com/dms/image/v2/D4D10AQGZx37_6rujOQ/image-shrink_1280/image-shrink_1280/0/1734274818820?e=2147483647&v=beta&t=MwMXc-Dg1aPTBrivoyOuiav0fRdJKER_sSX_dt9ODPM",
   },
   {
     name: "le casque VR",
