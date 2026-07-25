@@ -459,7 +459,7 @@ const events = [
     name: "le téléphone portable",
     date: new Date(1973, 3, 3),
     image:
-      "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fphonecharacteristics.com%2Flink_img%2F57161445fc1c9e917512.jpg&sp=1784991113T84e417c5c22db0389a4856fe457723ccf3023b0f5ef2a8aec93b8b6a3e788bd4",
+      "https://i0.wp.com/previewcf.turbosquid.com/Preview/2015/10/21__16_08_04/Motorola_DynaTac_00.jpg9ce0e652-7651-419c-9314-08173a8bc306Original.jpg",
   },
   {
     name: "la 2G (GSM)",
@@ -541,7 +541,7 @@ const events = [
 ];
 
 function getDiff(eventDate, birthDate) {
-  const when = eventDate < birthDate ? "après" : "avant";
+  const when = eventDate < birthDate ? "avant vous" : "après vous";
 
   const early = eventDate < birthDate ? eventDate : birthDate;
   const late = eventDate < birthDate ? birthDate : eventDate;
