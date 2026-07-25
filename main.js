@@ -671,12 +671,6 @@ const events = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/NES-Console-Set.png/1920px-NES-Console-Set.png",
   },
   {
-    name: "l'Atari 2600",
-    date: new Date(1981, 9, 1),
-    image:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Atari-2600-Wood-4Sw-Set.png/1920px-Atari-2600-Wood-4Sw-Set.png",
-  },
-  {
     name: "l'Odyssey",
     date: new Date(1973, 0, 1),
     image:
