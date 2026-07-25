@@ -489,7 +489,7 @@ const events = [
     name: "le passage à l'Euro",
     date: new Date(2002, 0, 1),
     image:
-      "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.britannica.com%2F77%2F237877-138-64FBA19C%2Fhistory-of-the-Euro-currency.jpg&sp=1784992467T5f41d5630f59b6851698d55ea10ee36bd57e4d29e931fd5316daea0e2b87973b",
+      "https://cdn.britannica.com/77/237877-138-64FBA19C/history-of-the-Euro-currency.jpg",
   },
   {
     name: "le Metaverse",
@@ -524,19 +524,19 @@ const events = [
     name: "la Télévision Numérique Terrestre",
     date: new Date(2005, 2, 31),
     image:
-      "https://www.startpage.com/av/proxy-image?piurl=http%3A%2F%2Fnews.aniamey.com%2Fimg_photos%2FL%2Ftnt-television-numerique-terrestre-700x352.png&sp=1784994296Tb7ca7f4633604af1575708ae90db19f3fae4eba7a47be972961e8c534e7a1e83",
+      "http://news.aniamey.com/img_photos/L/tnt-television-numerique-terrestre-700x352.png",
   },
   {
     name: "Métropole télévision 6 (M6)",
     date: new Date(1987, 2, 1),
     image:
-      "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogos%2Fimages%2Fd%2Fdd%2FM6_1987_logo.jpg%2Frevision%2Flatest%3Fcb%3D20160624155944%26path-prefix%3Dfr&sp=1784994359T320ee445736005fbfaf21bbf7fcf599720c8617de18713f7118c54a9bd3acf08",
+      "https://static.wikia.nocookie.net/logos/images/d/dd/M6_1987_logo.jpg/revision/latest?cb=20160624155944&path-prefix=fr",
   },
   {
     name: "la télé HD",
     date: new Date(1998, 0, 1),
     image:
-      "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1331151042%2Fphoto%2Fan-old-black-tv-is-on-the-bedside-table-in-the-apartment-vintage-tvs-1980s-1990s-2000s.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DDXssKwxXm9l_bycrsrofPyVVInX8f4lkC-5YiSt5khE%3D&sp=1784994540T0cd2a74f7f7b9614871fc45752f8c7c3233aa18e76c849856a19076f5e187d9f",
+      "https://www.shutterstock.com/image-photo/old-black-tv-vcr-on-260nw-1852921798.jpg",
   },
 ];
 
