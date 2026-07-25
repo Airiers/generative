@@ -605,7 +605,7 @@ const events = [
       "https://www.label-emmaus.co/media/ext/900x900/d1kvfoyrif6wzg.cloudfront.net/assets/images/56/main/4a80f27e7b33b3525fbdc454f407d107_e361778.jpeg.webp",
   },
   {
-    name: "l'échiquier éléctronique Kasparov",
+    name: "l'échiquier électronique Kasparov",
     date: new Date(1995, 0, 1),
     image:
       "https://jouets-retro.fr/17565-large_default/chess-partner-2-kasparov-jeu-d-echecs-electronique-saitek-1995.jpg",
