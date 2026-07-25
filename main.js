@@ -456,12 +456,6 @@ const events = [
       "https://upload.wikimedia.org/wikipedia/commons/5/51/IPod_classic.png",
   },
   {
-    name: "l'Ipod",
-    date: new Date(2001, 9, 23),
-    image:
-      "https://upload.wikimedia.org/wikipedia/commons/5/51/IPod_classic.png",
-  },
-  {
     name: "le téléphone portable",
     date: new Date(1973, 3, 3),
     image:
