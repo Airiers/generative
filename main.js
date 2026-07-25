@@ -565,7 +565,50 @@ const events = [
   {
     name: "le lecteur radio cassettes",
     date: new Date(1980, 0, 1),
-    image: "https://m.media-amazon.com/images/I/71HwYybq-GL.jpg",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQT4Yo1qS67oeZX8xbx-RHlny_J1q1_KDYfgoIrn15v2HlAL76C6p8CAW&s=10",
+  },
+  {
+    name: "Teamspeak",
+    date: new Date(1999, 9, 1),
+    image:
+      "https://tsheberge-40.webself.net/file/si352627/Dakirby309-Simply-Styled-TeamSpeak-fi5741989.ico",
+  },
+  {
+    name: "la Chaine Hi-Fi moderne",
+    date: new Date(1990, 9, 1),
+    image:
+      "https://i.etsystatic.com/8142885/r/il/c1b994/6108178472/il_300x300.6108178472_i1tu.jpg",
+  },
+  {
+    name: "Caveman",
+    date: new Date(1982, 0, 1),
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIUxTHSiOXV2i2psvHI11wKKO55YIA7w-EFYGBgJdwXaA2vgyGGpGFRQ&s=10",
+  },
+  {
+    name: "le Rubik's Cube",
+    date: new Date(1974, 0, 1),
+    image:
+      "https://i.pinimg.com/736x/f8/53/d2/f853d23f784ee00e5434761bc47f10a8.jpg",
+  },
+  {
+    name: "le Mastermind",
+    date: new Date(1976, 0, 1),
+    image:
+      "https://jouets-retro.fr/19527-large_default/super-mastermind-jeu-capiepa-1976.jpg",
+  },
+  {
+    name: "le Touché-Coulé électronique",
+    date: new Date(1983, 0, 1),
+    image:
+      "https://www.label-emmaus.co/media/ext/900x900/d1kvfoyrif6wzg.cloudfront.net/assets/images/56/main/4a80f27e7b33b3525fbdc454f407d107_e361778.jpeg.webp",
+  },
+  {
+    name: "l'échiquier éléctronique Kasparov",
+    date: new Date(1995, 0, 1),
+    image:
+      "https://jouets-retro.fr/17565-large_default/chess-partner-2-kasparov-jeu-d-echecs-electronique-saitek-1995.jpg",
   },
 ];
 
