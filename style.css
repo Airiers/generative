@@ -1,0 +1,105 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 20px;
+}
+
+main {
+  width: min(90%, 1200px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  width: 100%;
+  max-width: 400px;
+  box-sizing: border-box;
+}
+
+form {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#text {
+  transition: opacity 1s ease-in-out;
+  opacity: 0;
+  font-size: clamp(20px, 4vw, 30px);
+  text-align: center;
+}
+
+#events {
+  transition: opacity 1s ease-in-out;
+  opacity: 0;
+  width: 100%;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 40px;
+  width: 100%;
+  font-size: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.card img {
+  height: 180px;
+  width: 150px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.diff {
+  font-weight: bold;
+}
+
+.diff.after {
+  color: #4caf50;
+}
+
+.diff.before {
+  color: #2196f3;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+
+  form {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  .cards {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .card img {
+    height: 140px;
+    width: 120px;
+  }
+}

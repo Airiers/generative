@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Generative</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="main.js" defer></script>
+  </head>
+  <body>
+    <main>
+      <h1>Entrez votre jour de naissance</h1>
+      <form action="">
+        <input
+          type="number"
+          name="day"
+          id="day"
+          placeholder="Jour"
+          min="1"
+          max="31"
+        />
+        <input
+          type="number"
+          name="month"
+          id="month"
+          placeholder="Mois "
+          min="1"
+          max="12"
+        />
+        <input
+          type="number"
+          name="year"
+          id="year"
+          placeholder="Année"
+          min="1950"
+        />
+        <input type="button" id="start" value="Lancer" />
+      </form>
+      <div id="text">
+        <p>
+          Vous faites parti de la génération <span id="gen"></span>, aussi
+          appelés les <span id="surname"></span>.
+        </p>
+        <p><span id="desc"></span></p>
+      </div>
+      <div id="events">
+        <h2>Vous êtes né...</h2>
+        <div id="before-list" class="cards"></div>
+        <div id="after-list" class="cards"></div>
+      </div>
+    </main>
+  </body>
+</html>
