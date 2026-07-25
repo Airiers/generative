@@ -562,6 +562,11 @@ const events = [
     image:
       "https://upload.wikimedia.org/wikipedia/en/4/48/Dark_Age_of_Camelot_cover.jpg",
   },
+  {
+    name: "le lecteur radio cassettes",
+    date: new Date(1980, 0, 1),
+    image: "https://m.media-amazon.com/images/I/71HwYybq-GL.jpg",
+  },
 ];
 
 function getDiff(eventDate, birthDate) {
