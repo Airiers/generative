@@ -530,7 +530,7 @@ const events = [
     name: "Métropole télévision 6 (M6)",
     date: new Date(1987, 2, 1),
     image:
-      "https://static.wikia.nocookie.net/logos/images/d/dd/M6_1987_logo.jpg/revision/latest?cb=20160624155944&path-prefix=fr",
+      "https://shorthand-social.imgix.net/prod/story/3g3T1OfTZ6/media/18b23810040511e78ffc8735fe40b87c/original.jpg?w=1100&h=1100&fit=clip&fm=jpg&q=70&auto=format",
   },
   {
     name: "la télé HD",
