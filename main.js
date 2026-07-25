@@ -495,7 +495,7 @@ const events = [
     name: "le Metaverse",
     date: new Date(2021, 9, 28),
     image:
-      "https://media.licdn.com/dms/image/v2/D4D10AQGZx37_6rujOQ/image-shrink_1280/image-shrink_1280/0/1734274818820?e=2147483647&v=beta&t=MwMXc-Dg1aPTBrivoyOuiav0fRdJKER_sSX_dt9ODPM",
+      "https://imgproxy.domestika.org/unsafe/w:1200/rs:fill/plain/src://blog-post-open-graph-covers/000/009/249/9249-original.jpeg?1635494603",
   },
   {
     name: "le casque VR",
@@ -537,6 +537,30 @@ const events = [
     date: new Date(1998, 0, 1),
     image:
       "https://www.shutterstock.com/image-photo/old-black-tv-vcr-on-260nw-1852921798.jpg",
+  },
+  {
+    name: "le Discman",
+    date: new Date(1984, 0, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/1/14/Sony_Discman_D-145_face_20160921b.jpg",
+  },
+  {
+    name: "Universalis (CD-ROM)",
+    date: new Date(1995, 0, 1),
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaARWbJVkQb4kRXz_k_CmCgwVJUK8zbsk-vBgwWXy-XSJ4UMw0ju3ek2lb&s=10",
+  },
+  {
+    name: "Encarta",
+    date: new Date(2000, 0, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Encarta_logo.svg/1920px-Encarta_logo.svg.png",
+  },
+  {
+    name: "Dark age of Camelot",
+    date: new Date(2001, 8, 9),
+    image:
+      "https://upload.wikimedia.org/wikipedia/en/4/48/Dark_Age_of_Camelot_cover.jpg",
   },
 ];
 
