@@ -622,7 +622,7 @@ function createCard(event, birthDate) {
 
   const p = document.createElement("p");
   const span = document.createElement("span");
-  span.classList.add("diff", when === "avant" ? "before" : "after");
+  span.classList.add("diff", when === "après vous" ? "before" : "after");
 
   let text = "";
   if (years > 0) {
