@@ -165,7 +165,7 @@ const events = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1QmmhQ63H79Hd56ZiOO8NnocxGpHNeGNhvJimQ_BDog6csMaMdPaE6Ro&s=10",
   },
   {
-    name: "la première Xbox",
+    name: "la Xbox",
     date: new Date(2001, 10, 15),
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0uw-iS5CfYAYuc2s1fX6DtmJc2H14reqNJi5CDtsP6g&s=10",
@@ -572,7 +572,7 @@ const events = [
     name: "Teamspeak",
     date: new Date(1999, 9, 1),
     image:
-      "https://tsheberge-40.webself.net/file/si352627/Dakirby309-Simply-Styled-TeamSpeak-fi5741989.ico",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TeamSpeak_logo.svg/3840px-TeamSpeak_logo.svg.png",
   },
   {
     name: "la Chaine Hi-Fi moderne",
@@ -609,6 +609,108 @@ const events = [
     date: new Date(1995, 0, 1),
     image:
       "https://jouets-retro.fr/17565-large_default/chess-partner-2-kasparov-jeu-d-echecs-electronique-saitek-1995.jpg",
+  },
+  {
+    name: "Discord",
+    date: new Date(2015, 4, 13),
+    image:
+      "https://upload.wikimedia.org/wikipedia/fr/archive/8/80/20210527163044%21Logo_Discord_2015.png",
+  },
+  {
+    name: "Firefox",
+    date: new Date(2002, 8, 23),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/0/01/Mozilla_Firefox_2004_Logo.png",
+  },
+  {
+    name: "Steam",
+    date: new Date(2003, 9, 12),
+    image:
+      "https://cdn2.steamgriddb.com/icon_thumb/254aeaad72ea9fae24715d6f62dc71a5.png",
+  },
+  {
+    name: "le Steam Deck",
+    date: new Date(2022, 1, 25),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/Steam_Deck_%28front%29.png",
+  },
+  {
+    name: "la Nintendo 3DS",
+    date: new Date(2011, 2, 25),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nintendo-3DS-AquaOpen.png/1920px-Nintendo-3DS-AquaOpen.png",
+  },
+  {
+    name: "la PS4",
+    date: new Date(2013, 10, 29),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PS4-Console-wDS4.png/1920px-PS4-Console-wDS4.png",
+  },
+  {
+    name: "le Kinect",
+    date: new Date(2010, 10, 10),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Xbox-360-Kinect-Standalone.png/1920px-Xbox-360-Kinect-Standalone.png",
+  },
+  {
+    name: "la Mega Drive",
+    date: new Date(1990, 8, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sega-Mega-Drive-EU-Mk1-wController-FL.png/1920px-Sega-Mega-Drive-EU-Mk1-wController-FL.png",
+  },
+  {
+    name: "la Master System",
+    date: new Date(1987, 8, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sega-Master-System-Set.png/1920px-Sega-Master-System-Set.png",
+  },
+  {
+    name: "la NES",
+    date: new Date(1987, 9, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/NES-Console-Set.png/1920px-NES-Console-Set.png",
+  },
+  {
+    name: "l'Atari 2600",
+    date: new Date(1981, 9, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Atari-2600-Wood-4Sw-Set.png/1920px-Atari-2600-Wood-4Sw-Set.png",
+  },
+  {
+    name: "l'Odyssey",
+    date: new Date(1973, 0, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Magnavox-Odyssey-Console-Set.png/960px-Magnavox-Odyssey-Console-Set.png",
+  },
+  {
+    name: "la souris à boule",
+    date: new Date(1979, 0, 1),
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTONZPqvMHNtH-ECdIkKU_sJCj1I8KMhm05-QCrxqlCTa4X_Vz0D8AaZGz6&s=10",
+  },
+  {
+    name: "le Dyson",
+    date: new Date(1991, 0, 1),
+    image:
+      "https://i.guim.co.uk/img/media/a9b71b651a4a295210fae5603772024464d302a7/0_11_2788_3483/master/2788.jpg?width=700&quality=85&auto=format&fit=max&s=619a835a3aa7df18fcadc3109d677093",
+  },
+  {
+    name: "le GPS TomTom",
+    date: new Date(2004, 0, 1),
+    image:
+      "https://img.leboncoin.fr/api/v1/lbcpb1/images/4c/4f/fc/4c4ffc4567c3ab9f778fa84370c0af5200b67781.jpg?rule=ad-image",
+  },
+  {
+    name: "la Webcam",
+    date: new Date(1993, 0, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/b/b8/Trojan_Room_coffee_pot_xcoffee.png",
+  },
+  {
+    name: "le caméscope",
+    date: new Date(1983, 0, 1),
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Betacam_SP_Camcorder_01_KMJ.jpg/250px-Betacam_SP_Camcorder_01_KMJ.jpg",
   },
 ];
 
