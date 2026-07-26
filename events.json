@@ -568,5 +568,25 @@
     "name": "Dailymotion",
     "date": "2005-03-15",
     "image": "https://macmagazine.com.br/wp-content/uploads/2008/10/01-dailymotion.jpg"
+  },
+  {
+    "name": "TF1",
+    "date": "1975-01-06",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/T%C3%A9l%C3%A9vision_Fran%C3%A7aise_1_TF1_1975-1984.png"
+  },
+  {
+    "name": "la Première chaîne de la RTF",
+    "date": "1949-02-09",
+    "image": "https://upload.wikimedia.org/wikipedia/fr/5/55/RTF_T%C3%A9l%C3%A9vision_%281959-1964%29.png"
+  },
+  {
+    "name": "le code-barres",
+    "date": "1973-05-01",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/UPC_A.svg/1920px-UPC_A.svg.png"
+  },
+  {
+    "name": "la première récupération d'un lanceur orbital (SpaceX)",
+    "date": "2015-12-22",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/45th_Space_Wing_Supports_Successful_Transporter-1_Launch_%28210124-X-QO603-1025%29_%28cropped%29.jpg/1920px-45th_Space_Wing_Supports_Successful_Transporter-1_Launch_%28210124-X-QO603-1025%29_%28cropped%29.jpg"
   }
 ]
