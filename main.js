@@ -55,6 +55,8 @@ document.querySelector("#start").addEventListener("click", () => {
     const gen = gens.find((g) => year >= g.start && year <= g.end);
 
     document.querySelector("#gen").textContent = gen.name;
+    document.querySelector("#sgen").textContent = gen.start;
+    document.querySelector("#egen").textContent = gen.end;
     document.querySelector("#surname").textContent = gen.surname;
     document.querySelector("#desc").textContent = genDescriptions[gen.name];
   }
