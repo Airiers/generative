@@ -572,7 +572,7 @@ const events = [
     name: "Teamspeak",
     date: new Date(1999, 9, 1),
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TeamSpeak_logo.svg/3840px-TeamSpeak_logo.svg.png",
+      "https://preview.redd.it/did-you-use-teamspeak-prior-to-discords-existence-v0-ml7fjx23j76e1.png?width=640&crop=smart&auto=webp&s=ccc5a2ef1a579946a41fa34b2a5d09044ae8573e",
   },
   {
     name: "la Chaine Hi-Fi moderne",
@@ -696,15 +696,31 @@ const events = [
   },
   {
     name: "la Webcam",
-    date: new Date(1993, 0, 1),
+    date: new Date(2000, 0, 1),
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/b/b8/Trojan_Room_coffee_pot_xcoffee.png",
+      "https://images.openai.com/static-rsc-4/MVq1lcj4_AzuJFMQNgtLV-TQi4f8yg8BUfkf-rXGlsALMyfcpxhk4f6Ii4k-ysOgKqo8qjqt1axnnVcBoUNWKkDRm4R8Jua65IJTtoWcGWgzktn_mPX0ZClCeyD6KSpaBjVVeoRm5Yu__rdSOv4gklFyL_XMivXk8k2CBpYykE07PglPZgCdDaAeTmb6w5il?purpose=fullsize",
+  },
+  {
+    name: "les Sims",
+    date: new Date(2000, 1, 4),
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLMGhEMS9rRL5yKLEJxoafMl5wHYCsqsRC6biOACK6mb9ATNt1EZ41Ok&s=10",
   },
   {
     name: "le caméscope",
-    date: new Date(1983, 0, 1),
+    date: new Date(1995, 0, 1),
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Betacam_SP_Camcorder_01_KMJ.jpg/250px-Betacam_SP_Camcorder_01_KMJ.jpg",
+      "https://images.openai.com/static-rsc-4/xEvaz2-hQMs2M4b4yDDALnEeA-338UeDR-mREXGKbfqTc78RETjSLHQi9aVOpQqG9O2f3cYmvwEyWcJ8WV97EhxPwMGWlaCNhWQQAYj0r_1r3oaXx4uA5qrBnArg3xkyaGWExoQnyYpkFuQGKr6T86D763q4U9UhB8mB1zlw0sT7wQFN37JM-pi7twx4XLMk?purpose=fullsize",
+  },
+  {
+    name: "eMule",
+    date: new Date(2002, 4, 13),
+    image: "https://www.emule-project.net/a_long_time_ago/screenbig6.jpg",
+  },
+  {
+    name: "Caramail",
+    date: new Date(1997, 0, 1),
+    image: "https://www.emule-project.net/a_long_time_ago/screenbig6.jpg",
   },
 ];
 
