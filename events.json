@@ -125,7 +125,7 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_cCFrx21EXlNiGegDHtOatvVQd4hpfVfun3MTk5fDQ&s=10"
   },
   {
-    "name": "le premier ordinateur grand public",
+    "name": "le premier ordinateur grand public (Apple II)",
     "date": "1977-06-10",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Apple_II_plus.jpg/250px-Apple_II_plus.jpg"
   },
@@ -608,5 +608,10 @@
     "name": "le spot anti piratage",
     "date": "2004-07-01",
     "image": "https://i.ytimg.com/vi/Kb4mL-kcZAk/mqdefault.jpg"
+  },
+  {
+    "name": "le Pioneer PL-L1000",
+    "date": "1981-01-01",
+    "image": "https://zstereo.co.uk/wp-content/uploads/2013/11/pioneer-pl-l1000a.jpg"
   }
 ]
